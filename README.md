@@ -12,7 +12,7 @@ O objetivo desta atividade é assegurar a compreensão dos conceitos básicos do
 
 ![Turtlesim](static/turtlesim.png)
 
-Uma demonstração completa do projeto pode ser vista aqui: [Link](https://www.youtube.com)
+Uma demonstração completa do projeto pode ser vista aqui: [Link](https://youtu.be/_SVPsxg7GDs)
 
 ## Pré-requisitos, Instalação e Uso
 
